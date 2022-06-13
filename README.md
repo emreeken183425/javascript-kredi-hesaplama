@@ -1,3 +1,2 @@
 # Kredi Hesaplama Aracı
-
-https://kredi-hesapla.netlify.app/
+[]()https://emreeken183425.github.io/javascript-kredi-hesaplama/
